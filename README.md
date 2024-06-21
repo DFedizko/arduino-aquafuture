@@ -3,6 +3,9 @@
 # Descrição
 O projeto Aqua Future é uma solução ao desafio "Blue Future" apresentado pela FIAP. Ele tem como objetivo monitorar e registrar a temperatura da água e a incidência solar, contribuindo para a proteção dos oceanos. Ele implementa um sistema de monitoramento de temperatura e luminosidade usando um Arduino. O sistema simula a leitura de temperatura e luminosidade através de potenciômetros. Além disso, o projeto inclui funcionalidades como alertas visuais e sonoros quando a temperatura excede um certo limite e o registro dos dados em uma memória EEPROM.
 
+Este projeto foi simulado na plataforma [wokwi](https://wokwi.com/projects/401109789842699265), usando um [código em C++](https://github.com/DFedizko/arduino-aquafuture/blob/main/codigo_aquafuture.ino).
+
+
 # Funcionalidades
 - Leitura de temperatura e luminosidade utilizando potenciômetros.
 
